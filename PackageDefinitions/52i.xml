@@ -1,0 +1,31 @@
+<AssetPackage Name="52i" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="52i">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\52i\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\52i</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport name="Gross - Pinconning" ident="52I" lat="43.84621162309890" lon="-84.00996966862196" alt="188.23525319341570" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="43.84623653650723" lon="-84.00834502863742" heading="180.000000" radius="5.000000" name="PARKING" number="1" suffix="GATE_A" pushBack="LEFT" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="43.84623464678870" lon="-84.00799885216928" heading="180.000000" radius="5.000000" name="PARKING" number="1" suffix="GATE_B" pushBack="LEFT" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="43.84684920235205" lon="-84.01339218878454" alt="190.52998007368296" heading="-88.99900054931641" length="983.45666503906250" width="30.00000000000000" patternAltitude="304.79998779296875" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="FALSE" number="27" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Coloration red="21" green="70" blue="26" alpha="255" override="TRUE"/>
+			<Markings edges="FALSE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="MEDIUM"/>
+			<RunwayStart end="PRIMARY" lat="43.84678132083244" lon="-84.00813295132177" alt="190.53548368811607" heading="-88.99900054931641"/>
+			<RunwayStart end="SECONDARY" lat="43.84691572538839" lon="-84.01862204333973" alt="190.53922796715051" heading="88.99900054931641"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="43.84657299186362" lon="-84.00731487515932"/>
+				<Vertex lat="43.84588420781029" lon="-84.00731643703644"/>
+				<Vertex lat="43.84602010226345" lon="-84.00775012307157"/>
+				<Vertex lat="43.84602771867819" lon="-84.00850811804689"/>
+				<Vertex lat="43.84658032420656" lon="-84.00849444320258"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

@@ -1,0 +1,8 @@
+<Project Version="2" Name="52I" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\52i.xml</Package>
+	</Packages>
+</Project>
+
