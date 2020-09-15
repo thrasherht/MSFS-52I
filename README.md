@@ -29,4 +29,4 @@ Added them here, as well as adjusted the grass coloring to make it stand out a b
 
 #### Images ####
 
-![Top down view](https://raw.githubusercontent.com/thrasherht/MSFS-52I/master/Screenshots/TopDownView.jpg)
+![Top down view](https://raw.githubusercontent.com/thrasherht/MSFS-52I/main/Screenshots/TopDownView.jpg)
